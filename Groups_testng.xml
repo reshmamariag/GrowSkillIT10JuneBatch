@@ -14,7 +14,7 @@
   
   <run>
   <include name="EarlyMorningTest"></include>
-  <exclude name="Regression"></exclude>
+  
   </run>
   
   
